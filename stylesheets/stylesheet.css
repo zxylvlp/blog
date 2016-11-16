@@ -509,6 +509,7 @@ aside#sidebar {
 
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
+  font-size: 15px;
   font-weight: bold;
 }
 
